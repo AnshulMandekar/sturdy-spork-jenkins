@@ -1,1 +1,1 @@
-# sturdy-spork-jenkins
+# Jenkins practice repo
